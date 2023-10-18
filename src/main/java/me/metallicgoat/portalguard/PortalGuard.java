@@ -1,4 +1,4 @@
-package me.metallicgoat.portalgaurd;
+package me.metallicgoat.portalguard;
 
 import org.bukkit.entity.EntityType;
 import org.bukkit.event.EventHandler;
