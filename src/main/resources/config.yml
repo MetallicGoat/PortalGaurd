@@ -1,0 +1,13 @@
+# Entities blacklisted from using portals
+# Possible values listed here:
+Blacklisted-Portal-Entities:
+  - "DROPPED_ITEM"
+  - "BOAT"
+  - "CHEST_BOAT"
+  - "MINECART"
+  - "MINECART_CHEST"
+  - "MINECART_COMMAND"
+  - "MINECART_FURNACE"
+  - "MINECART_TNT"
+  - "MINECART_HOPPER"
+  - "MINECART_MOB_SPAWNER"
