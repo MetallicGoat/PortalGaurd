@@ -1,5 +1,5 @@
 name: PortalGaurd
-version: 1.0.1
+version: 1.0.2
 author: MetallicGoat
 main: me.metallicgoat.portalguard.PortalGuard
 description: Prevents certain types of entities from going through nether portals
